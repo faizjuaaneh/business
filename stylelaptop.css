@@ -1,0 +1,18 @@
+body{
+    background-image: url(hero_desktop_devin_1600px.jpg);
+    background-position: center;
+    
+    
+}
+#lap{
+    font-size: 30px solid;
+    color: blue;
+        
+    
+        
+}
+.to{
+    height: 150px;
+    width: auto;
+    float: left;
+}
